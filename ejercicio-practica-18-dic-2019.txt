@@ -1,0 +1,25 @@
+
+
+Dado el siguiente enlace:
+https://es.wikipedia.org/wiki/Provincias_de_Ecuador
+
+En función de la tabla Provincias de Ecuador, generar:
+
+- Una estructura llamada provincias que represente las provincias del Ecuador.
+- Una estructura llamada capitales que represente las capitales del Ecuador.
+- Una estructura llamada habitantesProvincias que represente el número de habitantes de cada provincia.
+- Una estructura llamada numeroCantones que represente el número de cantones de cada pronvincia.
+
+En función de las estructuras presentar:
+
+- El total de habitantes de Ecuador
+- El total de cantones de Ecuador
+- Reporte (un solo print) como sigue:
+
+Provincia: Azuay
+Capital: Cuenca
+	Habitantes: 712127
+	Cantones: 15
+...
+
+Así con todas las provincias
